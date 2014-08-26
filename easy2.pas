@@ -1,3 +1,4 @@
+{ some modifications here }
 program easy2;
 var
    n, x, i,cal : longint;
